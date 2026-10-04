@@ -23,7 +23,7 @@ html { scroll-behavior: smooth; scroll-padding-top: 72px; }
 /* Page background: darkened photo (add img/bg.jpg); without the file the dark overlay on asphalt colour is used */
 body {
   line-height: 1.65;
-  background: linear-gradient(rgba(28, 29, 32, 0.9), rgba(28, 29, 32, 0.94)), url("../img/bg.jpg") center / cover fixed, var(--asphalt);
+  background: linear-gradient(rgba(28, 29, 32, 0.9), rgba(28, 29, 32, 0.94)), url("../img/bground.avif") center / cover fixed, var(--asphalt);
 }
 
 h1, h2, h3, .navbar-brand { font-family: var(--font-head); font-weight: 700; text-transform: none; }
